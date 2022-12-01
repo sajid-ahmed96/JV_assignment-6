@@ -1,0 +1,15 @@
+.calculator {
+    width: 390px;
+    border-radius: 16px;
+    background-color: rgba(168, 168, 168, 0.596);
+}
+
+.btnCustom {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+#display {
+    text-align: right;
+}
